@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd84ee27-1e5d-456b-ba85-1261b0ec1952" name="Default Changelist" comment="" />
+    <list default="true" id="fd84ee27-1e5d-456b-ba85-1261b0ec1952" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xkk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_cntour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_request.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +18,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yb0JOQhIh4DIZkUTUfx1X9fqdm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,10 +36,33 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.get_request">
+  <component name="RunManager" selected="Python.get_cntour">
+    <configuration name="get_cntour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_cntour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="get_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -42,7 +77,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_request.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -53,6 +88,9 @@
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -69,6 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_cntour" />
+        <item itemvalue="Python.get_request" />
         <item itemvalue="Python.get_request" />
         <item itemvalue="Python.hello" />
       </list>
@@ -92,30 +132,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="519" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583195974705" />
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1583479402504">
+    <state x="369" y="12" key="CommitChangelistDialog2" timestamp="1583805046589">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583479402504" />
-    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1583479402504">
+    <state x="369" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583805046589" />
+    <state width="1515" height="195" key="GridCell.Tab.0.bottom" timestamp="1584683906619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583479402504" />
-    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1583479402504">
+    <state width="1515" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584683906619" />
+    <state width="1515" height="195" key="GridCell.Tab.0.center" timestamp="1584683906619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583479402504" />
-    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1583479402504">
+    <state width="1515" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584683906619" />
+    <state width="1515" height="195" key="GridCell.Tab.0.left" timestamp="1584683906619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583479402504" />
-    <state x="230" y="84" key="SettingsEditor" timestamp="1583478111379">
+    <state width="1515" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584683906619" />
+    <state width="1515" height="195" key="GridCell.Tab.0.right" timestamp="1584683906619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="230" y="84" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583478111379" />
-    <state x="409" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1583473137375">
+    <state width="1515" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584683906619" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1584682394335">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="409" y="266" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583473137375" />
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584682394335" />
+    <state x="409" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1584682342091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="266" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584682342091" />
     <state x="128" y="150" width="1200" height="584" key="dock-window-1" timestamp="1583478058349">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
