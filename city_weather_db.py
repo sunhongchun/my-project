@@ -1,6 +1,6 @@
 import pymongo
 
-class SunDb():
+class SunhongchunDb():
     def __init__(self):
         self.client = pymongo.MongoClient('localhost', 27017)
         self.book_weather = self.client['weather']
@@ -14,12 +14,19 @@ class SunDb():
         for each in all:
             print(each)
 
+    def find(self,condition):
+        return self.sheet_weather.find()
+
+    def delete(self):
+        return self.sheet_weather.delete()
+
+
 if __name__=="__main__":
     # client=pymongo.MongoClient('localhost',27017)
     # book_weather=client['weather']
     # sheet_weather=book_weather['sheet_weather_3']
     # print(sheet_weather)
     # sheet_weather.insert_one({"name":"sunhongchun","class":"net19049"})
-    sunDb=SunDb()
-    sunDb.save({"name":"sunhongchun","class":"net19049"})
-    sunDb.show_all()
+    sunhongchunDb=SunhongchunDb()
+    sunhongchunDb.save({"name":"sunhongchun","class":"net19049"})
+    sunhongchunDb.show_all()
